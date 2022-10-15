@@ -1,2 +1,0 @@
-# Lottry
-lottry card
